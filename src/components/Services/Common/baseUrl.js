@@ -1,0 +1,1 @@
+export const BASE_URL = "https://api.denzo.io/api/cus/v1";
